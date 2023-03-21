@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3429A98729CA0B8F00B75FAD /* RectangleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3429A98629CA0B8F00B75FAD /* RectangleCard.swift */; };
 		343041D529C4BA29000C3285 /* LearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 343041D429C4BA29000C3285 /* LearningApp.swift */; };
 		343041D729C4BA29000C3285 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 343041D629C4BA29000C3285 /* HomeView.swift */; };
 		343041D929C4BA2A000C3285 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 343041D829C4BA2A000C3285 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3429A98629CA0B8F00B75FAD /* RectangleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleCard.swift; sourceTree = "<group>"; };
 		343041D129C4BA28000C3285 /* LearningApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		343041D429C4BA29000C3285 /* LearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningApp.swift; sourceTree = "<group>"; };
 		343041D629C4BA29000C3285 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				34520E5429C6010900A6798B /* ContentView.swift */,
 				345350F429C7A6ED00969DE1 /* ContentDetailView.swift */,
 				34E2611D29C8552A00084B05 /* CodeTextView.swift */,
+				3429A98629CA0B8F00B75FAD /* RectangleCard.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				343041D729C4BA29000C3285 /* HomeView.swift in Sources */,
 				34520E5329C5ED9F00A6798B /* HomeViewRow.swift in Sources */,
 				34520E5529C6010900A6798B /* ContentView.swift in Sources */,
+				3429A98729CA0B8F00B75FAD /* RectangleCard.swift in Sources */,
 				345350F529C7A6ED00969DE1 /* ContentDetailView.swift in Sources */,
 				343041D529C4BA29000C3285 /* LearningApp.swift in Sources */,
 				34C8B64529C4F5CA009EE46E /* ContentModel.swift in Sources */,
